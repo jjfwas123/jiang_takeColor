@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jiang_takeColor", "jiang_takeColor\jiang_takeColor.csproj", "{616C37E3-0D0C-4455-A460-F0C28B56C8FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{616C37E3-0D0C-4455-A460-F0C28B56C8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616C37E3-0D0C-4455-A460-F0C28B56C8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616C37E3-0D0C-4455-A460-F0C28B56C8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616C37E3-0D0C-4455-A460-F0C28B56C8FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B76198EE-9FB7-4801-B102-86D32C66BBD4}
+	EndGlobalSection
+EndGlobal

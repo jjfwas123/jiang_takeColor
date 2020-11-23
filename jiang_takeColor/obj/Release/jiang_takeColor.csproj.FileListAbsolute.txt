@@ -1,0 +1,14 @@
+E:\c#\jiang_takeColor\jiang_takeColor\obj\Release\MainWindow.g.cs
+E:\c#\jiang_takeColor\jiang_takeColor\obj\Release\App.g.cs
+E:\c#\jiang_takeColor\jiang_takeColor\obj\Release\MainWindow.baml
+E:\c#\jiang_takeColor\jiang_takeColor\obj\Release\jiang_takeColor.Properties.Resources.resources
+E:\c#\jiang_takeColor\jiang_takeColor\obj\Release\jiang_takeColor.csproj.GenerateResource.cache
+E:\c#\jiang_takeColor\jiang_takeColor\obj\Release\jiang_takeColor.csproj.CoreCompileInputs.cache
+E:\c#\jiang_takeColor\jiang_takeColor\bin\Release\取色器.exe.config
+E:\c#\jiang_takeColor\jiang_takeColor\bin\Release\取色器.exe
+E:\c#\jiang_takeColor\jiang_takeColor\bin\Release\取色器.pdb
+E:\c#\jiang_takeColor\jiang_takeColor\obj\Release\取色器_MarkupCompile.cache
+E:\c#\jiang_takeColor\jiang_takeColor\obj\Release\取色器_MarkupCompile.lref
+E:\c#\jiang_takeColor\jiang_takeColor\obj\Release\取色器.g.resources
+E:\c#\jiang_takeColor\jiang_takeColor\obj\Release\取色器.exe
+E:\c#\jiang_takeColor\jiang_takeColor\obj\Release\取色器.pdb
