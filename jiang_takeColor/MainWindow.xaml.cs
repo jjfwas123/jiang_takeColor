@@ -104,6 +104,7 @@ namespace jiang_takeColor
             return ListItem;
         }
 
+        // 双击复制颜色
         private void ListBoxItem_MouseDoubleClick(object sender, MouseButtonEventArgs e) {
             System.Windows.Forms.Clipboard.SetDataObject(((ListBoxItem)sender).Tag);
             DispatcherTimer dispatcherTimer = new DispatcherTimer();
@@ -111,7 +112,7 @@ namespace jiang_takeColor
             {
                 ((ListBoxItem)sender).IsSelected = false;
             });
-            dispatcherTimer.Interval = new TimeSpan(0, 0, 0, 0, 50);
+            dispatcherTimer.Interval = new TimeSpan(0, 0, 0, 0, 500);
             dispatcherTimer.Start();
         }
 
